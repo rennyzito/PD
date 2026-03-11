@@ -1,4 +1,5 @@
 📊 Base de Dados
+
 Devido ao tamanho do arquivo (aprox. 8GB), o dataset original não está incluído neste repositório.
 Para rodar o projeto:
 
