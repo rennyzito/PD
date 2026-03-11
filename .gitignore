@@ -1,0 +1,10 @@
+archive (1)/
+
+en.openfoodfacts.org.products.csv
+*.csv
+
+# Outros arquivos pesados ou de sistema
+.DS_Store
+__pycache__/
+*.pkl
+*.joblib
