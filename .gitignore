@@ -1,10 +1,16 @@
+# Banco de dados (Arquivo pesado na raiz)
+en.openfoodfacts.org.products.csv
+
+# Caso existam outros CSVs ou pastas de dados
+*.csv
+archive/
 archive (1)/
 
-en.openfoodfacts.org.products.csv
-*.csv
-
-# Outros arquivos pesados ou de sistema
-.DS_Store
-__pycache__/
+# Modelos salvos (arquivos pesados)
 *.pkl
 *.joblib
+
+# Arquivos de sistema e Python
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
