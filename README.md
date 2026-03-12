@@ -1,6 +1,7 @@
 📊 Base de Dados
 
 Devido ao tamanho do arquivo (aprox. 8GB), o dataset original não está incluído neste repositório.
+
 Para rodar o projeto:
 
 Baixe o dataset no Kaggle: [Open Food Facts](https://www.kaggle.com/datasets/konradb/open-food-facts)
@@ -11,4 +12,4 @@ Baixe o dataset no Kaggle: [Open Food Facts](https://www.kaggle.com/datasets/kon
 
 Ou baixe diretamente da fonte oficial: [Download CSV](https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv)
 
-Coloque o arquivo .csv na raiz do projeto antes de executar o Jupyter Notebook/Script.
+Coloque o arquivo .csv na raiz do projeto antes de executar o Jupyter Notebook/Script. 
